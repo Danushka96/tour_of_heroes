@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 
-##DEMO
+## DEMO
 
 [https://qypavovxnqy.angular.stackblitz.io/dashboard](https://qypavovxnqy.angular.stackblitz.io/dashboard)
 
