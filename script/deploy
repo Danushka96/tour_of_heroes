@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ssh angular@35.225.122.85 <<EOF
+ssh -t -t angular@35.225.122.85 <<EOF
  cd /var/www/html/tour_of_heroes
  git pull
  npm run build
