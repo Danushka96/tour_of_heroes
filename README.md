@@ -14,7 +14,7 @@ http://tourofheroes.cf
 
 1. Git (https://github.com/Danushka96/tour_of_heroes)
 2. Jekins:
-    * URL: http://34.68.195.135:8080
+    * URL: http://34.67.70.206:8080/
     * username: admin
     * password: ucsc#123
 
